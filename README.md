@@ -36,13 +36,9 @@
 <img src="https://streak-stats.demolab.com/?user=gattidev01&theme=tokyonight&hide_border=true" />
 </div>
 
-<br>🏆 Troféus
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gattidev01&theme=onedark&no-frame=true&row=1&margin-w=15" />
-</div>
 
-<br>🐍 Minhas contribuições ganham vida
+<br>
 
 <div align="center">
 <picture>
