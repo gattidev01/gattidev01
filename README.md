@@ -30,8 +30,7 @@
 <br>📊 Estatísticas do GitHub
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gattidev01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gattidev01&layout=compact&theme=tokyonight&hide_border=true" />
+
 <br>
 <img src="https://streak-stats.demolab.com/?user=gattidev01&theme=tokyonight&hide_border=true" />
 </div>
