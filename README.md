@@ -13,9 +13,13 @@
 
 ## Sobre mim
 
-Trabalhei por **6 anos com vendas e atendimento**, chegando à liderança de uma equipe com mais de 10 pessoas. Hoje uso essa experiência para entender necessidades de negócio e transformá-las em software — inclusive como **Desenvolvedora da Cardapya**.
+Oi, eu sou a Nati. 
 
-Sou formada em **Análise e Desenvolvimento de Sistemas pela PUC Minas**. Atualmente desenvolvo APIs em Go, integrações com PostgreSQL e interfaces em React, enquanto direciono meu portfólio e meus estudos para oportunidades com **Java e Spring Boot**.
+Sou formada em **Análise e Desenvolvimento de Sistemas pela PUC Minas**. Atualmente desenvolvo APIs em Go, integrações com PostgreSQL e interfaces em React. Tenho experiência com desenvolvimento de Automações end to end, criação e manutenção de sistemas e atualmente estou direcionando meus estudos pra área de IA.
+
+Tenho conhecimento em negócio, consolidado através de uma carreira voltada ao digital, atuando em várias frentes com isso consigo trabalhar transformando tasks simples com visão final de produto. 
+
+Alguns Projetos que já fiz em linguagens que tenho conhecimento: 
 
 ## Java e Spring Boot — código verificável
 
@@ -35,9 +39,9 @@ API REST criada a partir de um domínio que conheço: gestão de orçamentos par
 
 O README do projeto explica as decisões técnicas, arquitetura, endpoints e como executar localmente.
 
-## Experiência prática
 
-**Cardapya — Cofundadora e Desenvolvedora de Software**  
+
+**Cardapya — Desenvolvedora de Software**  
 Participo da construção do produto e das decisões de negócio, incluindo precificação e regras da plataforma. Na parte técnica, atuo na construção de APIs em Go, integração com PostgreSQL e desenvolvimento das telas de login em React.
 
 **Software de gestão para oficina —**  
@@ -46,7 +50,6 @@ Desenvolvimento de ordens de serviço, clientes, financeiro e autenticação JWT
 **Famart**  
 Automações com n8n e leitura de dashboards para apoiar decisões comerciais.
 
-> Em 2026, minha transição de carreira aconteceu por frentes paralelas e com escopos diferentes: cofundação e desenvolvimento da Cardapya, projetos independentes por entregas e automações ligadas à área comercial.
 
 ## Tecnologias que consigo explicar e demonstrar
 
