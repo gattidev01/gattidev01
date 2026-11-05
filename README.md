@@ -15,11 +15,10 @@
 
 Oi, eu sou a Nati. 
 
-Sou formada em **Análise e Desenvolvimento de Sistemas pela PUC Minas**. Atualmente desenvolvo APIs em Go, integrações com PostgreSQL e interfaces em React. Tenho experiência com desenvolvimento de Automações end to end, criação e manutenção de sistemas e atualmente estou direcionando meus estudos pra área de IA.
+Sou formada em **Análise e Desenvolvimento de Sistemas pela PUC Minas**. Atualmente desenvolvo APIs em Go, integrações com PostgreSQL e interfaces em React. Gosto muito de me aventurar em diversas linguagens, então já codei também em PHP, Java.. Tenho experiência com desenvolvimento de Automações end to end, criação e manutenção de sistemas e atualmente estou direcionando meus estudos pra área de IA.
 
-Tenho conhecimento em negócio, consolidado através de uma carreira voltada ao digital, atuando em várias frentes com isso consigo trabalhar transformando tasks simples com visão final de produto. 
+Tenho conhecimento em negócio, consolidado através de uma carreira voltada ao digital, atuando em várias frentes, desde discovery, comercial, liderança de equipes,  automações, integração, com isso consigo trabalhar transformando tasks simples com visão final de produto. 
 
-Alguns Projetos que já fiz em linguagens que tenho conhecimento: 
 
 ## Java e Spring Boot — código verificável
 
